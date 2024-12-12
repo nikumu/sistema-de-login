@@ -9,5 +9,5 @@ Este é um sistema de login simples desenvolvido em PHP puro, demonstrando boas 
 - Proteção contra acesso não autorizado
 - Navegação básica entre páginas
 
-## Estrutura do Projeto
+Para usar o projeto, basta clonar o repositório, configurar um servidor web com PHP, e acessar o `index.php`. Os usuários e senhas de teste estão definidos no arquivo `usuarios.php`.
 
